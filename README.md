@@ -1,4 +1,4 @@
-# quarkus-code-agrotis Project
+# quarkus-code Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
